@@ -1,4 +1,4 @@
-# Proyecto de examen
+# Proyecto de examen (versión código)
 ## Información adicional
 Autor: Pedro Zamora 
 
